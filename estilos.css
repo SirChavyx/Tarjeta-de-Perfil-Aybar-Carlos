@@ -27,7 +27,7 @@ body {
 
 .descripcion h1 {
     height: 30px;
-    color: antiquewhite;
+    color: rgb(252, 250, 247);
     text-align: center;
     font-family: Cambria;
 }
@@ -73,4 +73,5 @@ a:hover {
     .links a {
         background-color: rgb(39, 5, 117);
         color: rgb(147, 141, 141);
+}
 }
